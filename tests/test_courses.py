@@ -1,6 +1,6 @@
 import time
 import pytest
-from module_1.PageObject.spa_landing import Landing
+from PageObject.spa_landing import Landing
 
 
 @pytest.mark.parametrize(
