@@ -1,3 +1,17 @@
+tests/test_callback_form.py::test_callback_invalid[test_1-+9004354321-test_2@gmail.ru]: FAILED
+tests/test_callback_form.py::test_callback_invalid[test-+90076543-test_3@gmail.ru]: FAILED
+tests/test_callback_form.py::test_callback_invalid[test-+9007654321-test@gmail]: FAILED
+tests/test_callback_form.py::test_callback_valid: FAILED
+tests/test_courses.py::test_hints[\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440]: FAILED
+tests/test_courses.py::test_hints[\u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435]: FAILED
+tests/test_courses.py::test_hints[programming]: FAILED
+tests/test_courses.py::test_hints[ghjuhfvvbh]: FAILED
+tests/test_courses.py::test_url[\u0434\u0438\u0437\u0430\u0439\u043d]: FAILED
+tests/test_courses.py::test_url[\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435]: FAILED
+tests/test_e2e.py::test_e2e: FAILED
+tests/test_filter.py::test_filter_counter: FAILED
+tests/test_filter.py::test_filter_correct_number: FAILED
+tests/test_filter.py::test_filter_navigation: FAILED
 tests/test_hooks_marks.py::test_example_1: PASSED
 tests/test_hooks_marks.py::test_example_2[input_data0]: FAILED
 tests/test_hooks_marks.py::test_example_2[input_data1]: PASSED
@@ -6,3 +20,5 @@ tests/test_hooks_marks.py::test_example_3: PASSED
 tests/test_hooks_marks.py::test_example_4[1-1-1]: PASSED
 tests/test_hooks_marks.py::test_example_4[2-8-40]: FAILED
 tests/test_hooks_marks.py::test_example_4[3-4-12]: PASSED
+tests/test_pizzeria.py::TestPizzeria::test_open_page: PASSED
+tests/test_review.py::test_review: PASSED

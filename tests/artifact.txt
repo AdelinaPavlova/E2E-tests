@@ -1,0 +1,3 @@
+tests/test_callback_form.py::test_callback_invalid[test_1-+9004354321-test_2@gmail.ru]: PASSED
+tests/test_callback_form.py::test_callback_invalid[test-+90076543-test_3@gmail.ru]: PASSED
+tests/test_callback_form.py::test_callback_invalid[test-+9007654321-test@gmail]: PASSED
