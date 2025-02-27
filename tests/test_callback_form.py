@@ -1,6 +1,6 @@
 import pytest
-from module_1.PageObject.spa_landing import Landing
-from module_1.PageObject.spa_callback_forms import DATA
+from PageObject.spa_landing import Landing
+from PageObject.spa_callback_forms import DATA
 
 
 @pytest.mark.parametrize("name, phone, email", DATA)

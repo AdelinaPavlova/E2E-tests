@@ -1,4 +1,4 @@
-from module_1.PageObject.spa_review_page import ReviewPage
+from PageObject.spa_review_page import ReviewPage
 
 
 def test_review(driver):

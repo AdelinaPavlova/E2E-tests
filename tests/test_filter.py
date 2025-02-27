@@ -1,5 +1,5 @@
-from module_1.PageObject.spa_code_page import CodePage
-from module_1.PageObject.spa_profession_page import ProfessionPage
+from PageObject.spa_code_page import CodePage
+from PageObject.spa_profession_page import ProfessionPage
 
 
 def test_filter_counter(driver):

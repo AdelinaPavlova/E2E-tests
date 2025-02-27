@@ -1,5 +1,5 @@
 from selenium.webdriver.support.wait import WebDriverWait
-from module_1.PageObject.spa_landing import Landing
+from PageObject.spa_landing import Landing
 
 
 class Steps:

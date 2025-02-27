@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from seleniumpagefactory import PageFactory
-from module_1.PageObject.spa_qa_page import QaPage
+from PageObject.spa_qa_page import QaPage
 
 
 class FilterCourses(PageFactory):

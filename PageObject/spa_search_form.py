@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from seleniumpagefactory import PageFactory
-from module_1.PageObject.spa_courses_page import FilterCourses
+from PageObject.spa_courses_page import FilterCourses
 
 
 class SearchForm(PageFactory):

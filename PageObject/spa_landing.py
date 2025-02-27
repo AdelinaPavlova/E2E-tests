@@ -2,11 +2,11 @@ from selenium.common import WebDriverException
 from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from module_1.PageObject.spa_callback_forms import CallbackForm
-from module_1.PageObject.spa_courses_page import FilterCourses
-from module_1.PageObject.spa_qa_page import QaPage
-from module_1.PageObject.spa_search_form import SearchForm
-from module_1.PageObject.spa_code_page import CodePage
+from PageObject.spa_callback_forms import CallbackForm
+from PageObject.spa_courses_page import FilterCourses
+from PageObject.spa_qa_page import QaPage
+from PageObject.spa_search_form import SearchForm
+from PageObject.spa_code_page import CodePage
 
 
 class Landing(object):

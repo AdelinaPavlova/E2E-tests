@@ -1,7 +1,7 @@
 from selenium.common import WebDriverException
 from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.support.wait import WebDriverWait
-from module_1.PageObject.spa_code_page import CodePage
+from PageObject.spa_code_page import CodePage
 
 
 class ProfessionPage(CodePage):

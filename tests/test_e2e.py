@@ -1,4 +1,4 @@
-from module_1.steps.steps import Steps
+from steps.steps import Steps
 
 
 def test_e2e(driver):
